@@ -18,7 +18,7 @@ This Privacy Policy describes the privacy practices of Fyta 3d (“Fyta”). Thi
 To ensure you can use our services normally, we will collect basic information necessary for providing the service. This includes your device model, operating system, a list of software, unique device identification codes (such as IMEI, Android ID, IDFA, OPENUDID, GUID, etc.), login IP address, software version number, network access method, type, and status. This category of information is essential and must be collected to provide our services.
 
 
-2. How We Collect Your Information
+## 2. How We Collect Your Information
 We collect and obtain your information through the following methods:
 
 2.1 Information you provide. For example:
@@ -37,7 +37,7 @@ We collect and obtain your information through the following methods:
      - (3) For advertising optimization. COOKIES and WEB BEACON help us provide you with advertisements relevant to your information, rather than general ad placements.
 
 
-3. How We Use Your Information
+## 3. How We Use Your Information
 
 3.1 This application will not provide, sell, rent, or share your personal information with any unrelated third parties without your prior permission. We may share your personal information externally only if we have obtained your permission in advance, or if we are legally required to do so by law or by the mandatory demands of government authorities.
 
@@ -48,7 +48,7 @@ We collect and obtain your information through the following methods:
 3.4 We will only disclose your personal information publicly in the following circumstances: 1) After obtaining your explicit consent; 2) Disclosure based on legal requirements: In situations where the law, legal processes, litigation, or mandatory requirements from government authorities require it, we may publicly disclose your personal information. 3) Within the scope permitted or required by law, to protect the interests, property, or safety of you or the public from harm, we may need to provide your personal information to third parties (including consumer rights protection departments and other industry organizations); 4) To share your personal information in order to protect national security, public safety, and the significant legal rights and interests of you and other individuals; 5) Information that you have made public yourself or that we have obtained from other legitimate public channels.
 
 
-4. How We Store and Protect Your Information
+## 4. How We Store and Protect Your Information
 
 4.1 Your personal information will be entirely stored in Fyta’s local servers. The storage locations include servers of Fyta and its affiliated companies, servers of institutions entrusted by Fyta, or servers used by the mobile systems i. We will take reasonable and feasible measures to try to avoid collecting irrelevant personal information. We will retain your personal information only for the duration necessary to achieve the purposes stated in this policy unless there is a mandatory retention requirement by law.
 
@@ -61,7 +61,7 @@ We collect and obtain your information through the following methods:
 4.5 In the unfortunate event of a personal information security incident, we will inform you in a timely manner as required by law and regulations: the basic situation and potential impact of the security incident, the measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you. We will promptly notify you of the relevant situation of the incident by email, letter, phone, push notification, etc. When it is difficult to notify individuals of personal information one by one, we will take reasonable and effective measures to publish an announcement. At the same time, we will also proactively report the handling of the personal information security incident as required by regulatory authorities.
 
 
-5. Your Rights to Manage Personal Information
+## 5. Your Rights to Manage Personal Information
 We place great importance on your concern for personal information and make every effort to protect your rights to access, correct, delete, and withdraw consent regarding your personal information, ensuring you have the full capacity to protect your privacy and security. Your rights include:
 
 5.1 Access and Correction of Your Personal Information
@@ -86,7 +86,7 @@ We place great importance on your concern for personal information and make ever
      - (6) Involving trade secrets.
 
 
-6 How We Protect the Personal Information of Minors
+## 6. How We Protect the Personal Information of Minors
 
 6.1 We place great importance on the protection of minors' personal information. If you are a minor under the age of 18, you should obtain written consent from your parents or legal guardians before using our products and services. We protect the personal information of minors in accordance with relevant national laws and regulations.
 
@@ -97,7 +97,7 @@ We place great importance on your concern for personal information and make ever
 6.4 For children under the age of 14, in addition to protecting minors' information as per this policy, we will also protect their personal information in accordance with regulations such as the "Regulations on the Protection of Children's Personal Information Online" and other relevant provisions for children under the age of 14.
 
 
-7 How This Policy is Updated
+## 7. How This Policy is Updated
 
 7.1 Our privacy policy may change. However, without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. When this policy is changed, we will display the updated policy in the APP in advance through announcements, pop-ups, or other appropriate methods. Without your consent, we will not limit the rights you are entitled to under the policy.
 
@@ -116,6 +116,6 @@ Significant changes referred to in this policy include, but are not limited to:
 7.4 We will also archive the old versions of this policy. You can contact us through the contact information provided in this policy to access older versions of the privacy policy.
 
 
-8. How to Contact Us
+## 8. How to Contact Us
 
 If you have any questions, comments, or suggestions about this privacy policy, please contact us at admin@just3d.ai.

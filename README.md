@@ -14,7 +14,7 @@ This Privacy Policy describes the privacy practices of Fyta 3d (“Fyta”). Thi
 8. How to Contact Us
 
 
-1. What Information We Collect
+## 1. What Information We Collect
 To ensure you can use our services normally, we will collect basic information necessary for providing the service. This includes your device model, operating system, a list of software, unique device identification codes (such as IMEI, Android ID, IDFA, OPENUDID, GUID, etc.), login IP address, software version number, network access method, type, and status. This category of information is essential and must be collected to provide our services.
 
 

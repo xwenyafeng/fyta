@@ -1,160 +1,121 @@
-# fyta3d
-《fyta3d》隐私政策
+Privacy Policy
 
-本应用《fyta3d》（以下简称“我们”）尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确更有个性化的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。但本应用将以高度的勤勉、审慎义务对待这些信息。本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。我们可能会不时依据法律法规或业务调整对本隐私政策进行修订。当本隐私政策发生变更后，我们会在App内向您展示变更后的内容。您需理解，只有在您确认并同意变更后的《隐私政策》，我们才会依据变更后的隐私政策收集、使用、处理和存储您的个人信息；您有权拒绝同意变更后的隐私政策，但请您知悉，一旦您拒绝同意变更后的隐私政策，可能导致您不能或不能继续完整使用相关服务和功能，或者无法达到我们拟达到的服务效果。您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。我们非常重视用户个人信息和隐私的保护。在使用《fyta3d》APP前，请您务必仔细阅读并透彻理解该《隐私政策》。我们希望通过本隐私政策向您说明我们在您使用fyta3d的产品与服务时如何收集、使用、保存、共享和转让这些信息，以及我们为您提供的访问、更新、删除和保护这些信息的方式。如果您是18周岁以下的未成年人，您应确保您的监护人阅读并同意本政策后，您才使用并向我们提供您的个人信息。
+This Privacy Policy describes the privacy practices of Fyta 3d (“Fyta”). This application (hereinafter referred to as "we") respects and protects the privacy rights of all users of our services. To provide you with more accurate and personalized services, this application will use and disclose your personal information in accordance with the provisions of this privacy policy. However, this application will treat this information with a high degree of diligence and prudence. This application will not disclose this information to the public or provide it to third parties. This application will update this privacy policy from time to time. We may revise this privacy policy from time to time according to legal regulations or business adjustments. When changes are made to this privacy policy, we will display the changed content to you within the App. You need to understand that only after you confirm and agree to the changed "Privacy Policy" will we collect, use, process, and store your personal information according to the revised privacy policy; you have the right to refuse to agree to the changed privacy policy, but please be aware that if you refuse to agree to the changed privacy policy, it may lead to you being unable or unable to continue to fully use related services and functions, or unable to achieve the service effect we intend. By agreeing to the terms of service of this application, you are deemed to have agreed to the entire content of this privacy policy. We attach great importance to the protection of users' personal information and privacy. Before using the "Fyta" APP, please be sure to read and thoroughly understand this "Privacy Policy." Through this privacy policy, we hope to explain to you how we collect, use, store, share, and transfer this information when you use Fyta's products and services, as well as the ways we provide for you to access, update, delete, and protect this information. If you are a minor under the age of 18, you should ensure that your guardian reads and agrees to this policy before you use and provide us with your personal information.
 
-目录
+**Table of Contents**
 
-1.我们将收集您的哪些信息
+1. What Information We Collect
+2. How We Collect Your Information
+3. How We Use Your Information
+4. How We Store and Protect Your Information
+5. Your Rights to Manage Personal Information
+6. How We Protect the Personal Information of Minors
+7. How This Policy is Updated
+8. How to Contact Us
 
-2.我们如何收集您的信息
 
-3.我们如何使用您的信息
+1. What Information We Collect
+To ensure you can use our services normally, we will collect basic information necessary for providing the service. This includes your device model, operating system, a list of software, unique device identification codes (such as IMEI, Android ID, IDFA, OPENUDID, GUID, etc.), login IP address, software version number, network access method, type, and status. This category of information is essential and must be collected to provide our services.
 
-4.我们如何储存和保护您的信息
 
-5.您管理个人信息的权利
+2. How We Collect Your Information
+We collect and obtain your information through the following methods:
 
-6.我们如何保护未成年人的个人信息
+2.1 Information you provide. For example:
+   - (1) Information you provide to us when registering for an account or using our services.
+   - (2) Information you share with others through the service, as well as information stored when you use our service.
 
-7.本政策如何更新
+2.2 Information about you shared by others. This refers to information about you shared by others when they use our service.
 
-8.如何联系我们
+2.3 Information we collect about you. This includes information we collect, aggregate, and record when you use our service, such as log information, location information, and device information.
 
-1.我们将收集您的哪些信息
+2.4 COOKIES, log files, and WEB BEACON
+   - We or our third-party partners may collect and use your information through COOKIES and WEB BEACON, and store this information as log information. We use COOKIES to provide users with a simple, easy-to-use, and personalized web experience. A COOKIE is a small amount of data sent from a web server to your browser and stored on your computer's hard disk. Our use of COOKIES is intended to benefit our users.
+   - We use our own COOKIES and WEB BEACON for the following purposes:
+     - (1) To remember your identity. For example, COOKIES and WEB BEACON help us recognize you as our registered user, or store your preferences or other information you provide to us.
+     - (2) To analyze how you use our services. We can use COOKIES and WEB BEACON to understand what activities you perform when using our services, or which services or service features are most popular.
+     - (3) For advertising optimization. COOKIES and WEB BEACON help us provide you with advertisements relevant to your information, rather than general ad placements.
 
-为保障您能正常使用我们的服务，我们会收集您的设备型号、操作系统、软件列表唯一设备识别码(如 IMEI/android ID/IDFA/OPENUDID/GUID等)、登录IP地址、软件版本号、接入网络方式、类型和状态，这类信息是为提供服务必须收集的基础信息。
 
-1.1 涉及嵌入第三方代码、插件传输个人信息的情形逐项举例:
+3. How We Use Your Information
 
-（1）使用SDK名称：友盟SDK
+3.1 This application will not provide, sell, rent, or share your personal information with any unrelated third parties without your prior permission. We may share your personal information externally only if we have obtained your permission in advance, or if we are legally required to do so by law or by the mandatory demands of government authorities.
 
-服务类型：统计分析、应用性能监控平台 U-APM
+3.2 This application also prohibits any third parties from collecting, editing, selling, or disseminating your personal information without compensation. If any user of this application engages in such activities, upon discovery, we reserve the right to immediately terminate the service agreement with that user.
 
-收集个人信息类型：设备信息（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM卡IMSI/地理位置信息等）
+3.3 We will not transfer your personal information to any companies, organizations, or individuals, except in the following cases: 1) Transfer with explicit consent: We will transfer your personal information to others only after obtaining your explicit consent; 2) In cases involving mergers, acquisitions, or bankruptcy liquidations, if personal information transfer is involved, we will ensure that the new entity holding your personal information continues to be bound by this privacy policy, or else we will require that entity to seek your authorization and consent again.
 
-隐私权政策链接：https://www.umeng.com/page/policy
+3.4 We will only disclose your personal information publicly in the following circumstances: 1) After obtaining your explicit consent; 2) Disclosure based on legal requirements: In situations where the law, legal processes, litigation, or mandatory requirements from government authorities require it, we may publicly disclose your personal information. 3) Within the scope permitted or required by law, to protect the interests, property, or safety of you or the public from harm, we may need to provide your personal information to third parties (including consumer rights protection departments and other industry organizations); 4) To share your personal information in order to protect national security, public safety, and the significant legal rights and interests of you and other individuals; 5) Information that you have made public yourself or that we have obtained from other legitimate public channels.
 
-2.我们如何收集您的信息
 
-我们将通过以下途径收集和获得您的信息：
+4. How We Store and Protect Your Information
 
-2.1您提供的信息。例如：
+4.1 Your personal information will be entirely stored in Fyta’s local servers. The storage locations include servers of Fyta and its affiliated companies, servers of institutions entrusted by Fyta, or servers used by the mobile systems i. We will take reasonable and feasible measures to try to avoid collecting irrelevant personal information. We will retain your personal information only for the duration necessary to achieve the purposes stated in this policy unless there is a mandatory retention requirement by law.
 
-（1）您在注册服务的帐号或使用服务时，向我们提供的信息；
+4.2 We will adopt security protection measures that meet industry standards, including establishing reasonable system regulations and security technologies to prevent unauthorized access, public disclosure, use, modification of your personal information, and to avoid data damage or loss.
 
-（2）您通过服务向其他方提供的共享信息，以及您使用服务时所储存的信息。
+4.3 We strongly recommend that you use complex passwords to help ensure the security of your account.
 
-2.2其他方分享的您的信息。亦即其他方使用服务时所提供有关您的共享信息。
+4.4 We will do our best to ensure or guarantee the security of any information you send to us. If our physical, technical, or managerial protective facilities are compromised, leading to unauthorized access, public disclosure, alteration, or destruction of information, causing damage to your legal rights, we will bear the corresponding legal responsibility.
 
-2.3我们获取的您的信息。您在使用服务时，我们收集、汇总、记录的信息，例如日志信息、位置信息、设备信息等。
+4.5 In the unfortunate event of a personal information security incident, we will inform you in a timely manner as required by law and regulations: the basic situation and potential impact of the security incident, the measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you. We will promptly notify you of the relevant situation of the incident by email, letter, phone, push notification, etc. When it is difficult to notify individuals of personal information one by one, we will take reasonable and effective measures to publish an announcement. At the same time, we will also proactively report the handling of the personal information security incident as required by regulatory authorities.
 
-2.4 COOKIES、日志档案和WEB BEACON
 
-我们或我们的第三方合作伙伴可能通过COOKIES和WEB BEACON获取和使用您的信息，并将该等信息储存为日志信息。通过使用COOKIES，我们向用户提供简单易行并富个性化的网络体验。一个COOKIES是少量的数据，它们从一个网络服务器送至您的浏览器并存在计算机硬盘上。我们使用COOKIES是为了让其用户可以受益。
+5. Your Rights to Manage Personal Information
+We place great importance on your concern for personal information and make every effort to protect your rights to access, correct, delete, and withdraw consent regarding your personal information, ensuring you have the full capacity to protect your privacy and security. Your rights include:
 
-我们使用自己的COOKIES和WEB BEACON，用于以下用途：
+5.1 Access and Correction of Your Personal Information
+   - You have the right to access and correct your personal information, except in cases exempted by laws and regulations. If you wish to exercise your rights to access and modify data, you can do so in the following way: 
+     - Go to the app homepage, click on the “Footprint” tab, and then click the “Settings” button on the right. Here, you can modify and save the relevant footprint data.
 
-（1）记住您的身份。例如：COOKIES和WEB BEACON有助于我们辨认您作为我们的注册用户的身份，或保存您向我们提供有关您的喜好或其他信息；
+5.2 Deletion of Your Personal Information
+   - You have the right to delete your personal information, except in cases exempted by laws and regulations. If you wish to exercise your right to modify data, you can do so in the following way:
+     - Go to the app homepage, click on the “Footprint” tab, and then click the “Delete” button on the right. This allows you to delete types of personal data such as footprints, check-ins, and markers.
 
-（2）分析您使用我们服务的情况。我们可利用COOKIES和WEB BEACON来了解您使用服务进行什么活动、或哪些服务或服务最受欢迎；及
+5.3 Changing the Scope of Your Consent or Withdrawing Your Authorization
+   - You can delete information or disable device functions. You can also withdraw all authorization for us to continue collecting your personal information by canceling your account. Please understand that each business function requires certain basic personal information to function. Once you withdraw your consent or authorization, we cannot continue to provide you with services corresponding to the withdrawal, nor will we process your corresponding personal information anymore. However, your decision to withdraw consent or authorization will not affect the processing of personal information carried out previously based on your authorization.
 
-（3）广告优化。COOKIES和WEB BEACON有助于我们根据您的信息，向您提供与您相关的广告而非进行普遍的广告投放。
+5.4 Responding to Your Requests
+   - For security reasons, we may require you to provide a written request or otherwise prove your identity. We will respond to your request within 30 days after receiving your feedback and verifying your identity. We generally do not charge a fee for reasonable requests, but for requests that are repetitive, exceed reasonable limits, or are impractical (such as requiring development of new systems, fundamentally changing current practices, or involving information stored on backup tapes), we may charge a cost fee or refuse the request.
+   - In the following situations, as required by law and regulations, we will not be able to respond to your request:
+     - (1) Related to national security or national defense security;
+     - (2) Related to public safety, public health, or significant public interest;
+     - (3) Related to criminal investigations, prosecution, trials, and judgment enforcement;
+     - (4) If there is sufficient evidence of your subjective malice or abuse of rights;
+     - (5) If responding to your request would cause serious harm to the legal rights and interests of you or other individuals or organizations;
+     - (6) Involving trade secrets.
 
-3. 我们如何使用您的信息
 
-3.1 本应用不会向任何无关第三方提供、出售、出租、分享您的个人信息，除非事先得到您的许可。或根据法律法规规定按政府主管部门的强制性要求，对外共享您的个人信息。
+6 How We Protect the Personal Information of Minors
 
-3.2 本应用亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本应用平台用户如从事上述活动，一经发现，本应用有权立即终止与该用户的服务协议。
+6.1 We place great importance on the protection of minors' personal information. If you are a minor under the age of 18, you should obtain written consent from your parents or legal guardians before using our products and services. We protect the personal information of minors in accordance with relevant national laws and regulations.
 
-3.3  我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外： 1、在获取明确同意的情况下转让：获得您的明确同意后，我们会向其他方转让您的个人信息； 2、在涉及合并、收购或破产清算时，如涉及到个人信息转让，我们会在要求新的持有您个人信息的公司、组织继续受此隐私政策的约束，否则我们将要求该公司、组织重新向您征求授权同意。
+6.2 In cases where personal information of minors is collected with the consent of parents or legal guardians, we will only use or disclose this information when legally permitted, and with explicit consent from parents or guardians, or when it is necessary to protect the minors.
 
-3.4 我们仅会在以下情况下，公开披露您的个人信息： 1、获得您明确同意后； 2、基于法律的披露：在法律、法律程序、诉讼或政府主管部门强制性要求的情况下，我们可能会公开披露您的个人信息。3、在法律要求或允许的范围内，为了保护您或社会公众的利益、财产或安全免遭损害而有必要提供您的个人信息给第三方（含消费者权益保护部门等行业组织）； 4、为了保护国家安全、公共安全以及您和其他个人的重大合法权益而需要共享您的个人信息； 5、您自行公开的或者我们能从其他合法公开渠道获取到您的个人信息。
+6.3 If we discover that we have collected personal information of minors without verified consent from parents or legal guardians, we will take measures to promptly delete the relevant data.
 
-4.我们如何储存和保护您的信息
+6.4 For children under the age of 14, in addition to protecting minors' information as per this policy, we will also protect their personal information in accordance with regulations such as the "Regulations on the Protection of Children's Personal Information Online" and other relevant provisions for children under the age of 14.
 
-4.1 您的个人信息将全被储存于中华人民共和国境内，储存位置包括fyta3d及其关联公司的服务器，或fyta3d委托机构的服务器，或手机系统所使用的在中国的服务器上。我们会采取合理可行的措施，尽力避免收集无关的个人信息。我们只会在达成本政策所述目的所需的期限内保留您的个人信息，除非法律有强制的存留要求。例如《中华人民共和国电子商务法》要求商品和服务信息、交易信息保存时间自交易完成之日起不少于三年。
 
-4.2 我们会采用符合业界标准的安全防护措施，包括建立合理的制度规范、安全技术来防止您的个人信息遭到未经授权的访问、公开披露、使用、修改、避免数据的损坏或丢失
+7 How This Policy is Updated
 
-4.3我们强烈建议您请使用复杂密码，协助我们保证您的账号安全。
+7.1 Our privacy policy may change. However, without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. When this policy is changed, we will display the updated policy in the APP in advance through announcements, pop-ups, or other appropriate methods. Without your consent, we will not limit the rights you are entitled to under the policy.
 
-4.4 我们将尽力确保或担保您发送给我们的任何信息的安全性。如果我们的物理、技术、或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改、或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。
+7.2 For significant changes, we will provide more prominent notifications (including but not limited to emails, text messages, or special prompts on browsing pages) to explain the specific changes to the privacy policy.
 
-4.5 在不幸发生个人信息安全事件后，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。
+Significant changes referred to in this policy include, but are not limited to:
+   - (1) Major changes in our service model, such as the purposes for processing personal information, types of personal information processed, and the manner of using personal information.
+   - (2) Significant changes in our ownership structure, organizational structure, etc., such as changes in ownership due to business adjustments, bankruptcy, mergers, and acquisitions.
+   - (3) Changes in the main parties to whom personal information is shared, transferred, or publicly disclosed.
+   - (4) Significant changes in your rights in terms of personal information processing and the manner in which they are exercised.
+   - (5) Changes in the department responsible for managing personal information security, contact methods, and complaint channels.
+   - (6) When personal information security impact assessment reports indicate high risks.
 
-5.您管理个人信息的权利
+7.3 Please note that we will collect, use, process, and store your personal information in accordance with the updated policy only after obtaining your consent.
 
-我们非常重视您对个人信息的关注，并尽全力保护您对于您个人信息访问、更正、删除以及撤回同意的权利，以使您拥有充分的能力保障您的隐私和安全。您的权利包括：
+7.4 We will also archive the old versions of this policy. You can contact us through the contact information provided in this policy to access older versions of the privacy policy.
 
-5.1访问和更正您的个人信息
 
-您有权访问和更正您的个人信息，法律法规规定的例外情况除外。如果您想行使数据访问权和修改权，可以通过以下方式自行访问：
+8. How to Contact Us
 
-进入app主页，点击“足迹”tab页，点击右侧“设置”按钮，可对足迹相关数据进行修改和保存。
-
-5.2删除您的个人信息
-
-您有权删除您的个人信息，法律法规规定的例外情况除外。如果您想行使数据修改权，可以通过以下方式自行操作：
-
-进入app主页，点击“足迹”tab页，点击右侧“删除”按钮，可对足迹、打卡、标记等类型的个人数据进行删除操作。
-
-5.3改变您授权同意的范围或撤回您的授权
-
-您可以删除信息、关闭设备功能。您也可以通过注销账户的方式，撤回我们继续收集您个人信息的全部授权。请您理解，每个业务功能需要一些基本的个人信息才能得以完成，当您撤回同意或授权后，我们无法继续为您提供撤回同意或授权所对应的服务，也不再处理您相应的个人信息。但您撤回同意或授权的决定，不会影响此前基于您的授权而开展的个人信息处理。
-
-5.4响应您的请求
-
-为了保障安全，我们可能需要您提供书面请求，或以其他方式证明您的身份，我们将在收到您反馈并验证您的身份后的 30 天内答复您的请求。对于您合理的请求，我们原则上不收取费用，但对多次重复、超出合理限度的请求，我们将视情收取一定成本费用。对于那些无端重复、需要过多技术手段(例如，需要开发新系统或从根本上改变现行惯例)、给他人合法权益带来风险或者非常不切实际(例如，涉及备份磁带上存放的信息)的请求，我们可能会予以拒绝。
-
-在以下情形中，按照法律法规要求，我们将无法响应您的请求：
-
-（1）与国家安全、国防安全有关的；
-
-（2）与公共安全、公共卫生、重大公共利益有关的；
-
-（3）与犯罪侦查、起诉和审判和判决执行等有关的；
-
-（4）有充分证据表明您存在主观恶意或滥用权利的；
-
-（5）响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的；
-
-（6）涉及商业秘密的。
-
-6. 我们如何保护未成年人的个人信息
-
-6.1 我们非常重视对未成年人个人信息的保护。若您是18周岁以下的未成年人，在使用我们的产品与服务前，应事先取得您父母或法定监护人的书面同意。我们根据国家相关法律法规的规定保护未成年人的个人信息。
-
-6.2 对于经父母或法定监护人同意而收集未成年人个人信息的情况，我们只会在受到法律允许、父母或监护人明确同意或者保护未成年人所必要的情况下使用或公开披露此信息。
-
-6.3如果我们发现自己在未事先获得可证实的父母或法定监护人同意的情况下收集了未成年人的个人信息，则会设法尽快删除相关数据。
-
-6.4如您是14周岁以下的儿童，我们依照本政策保护未成年人信息的同时，还将按照《儿童个人信息网络保护规定》等相关规定，对14周岁以下儿童的个人信息进行保护。
-
-7. 本政策如何更新
-
-7.1我们的隐私政策可能变更。但未经您明确同意，我们不会削减您依据本隐私政策所应享有的权利。当本政策发生变更时，我们会在APP内提前以公告、弹窗或以其他适当方式向您展示变更后的政策。未经您同意，我们不会限制您按照政策所应享有的相关权利。
-
-7.2对于重大变更，我们还会提供更为显著的通知（我们会通过包括但不限于邮件、短信或在浏览页面做特别提示等方式，说明隐私政策的具体变更内容）。
-
-本政策所指的重大变更包括但不限于：
-
-（1）我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；
-
-（2）我们在所有权结构、组织架构等方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；
-
-（3）个人信息共享、转让或公开披露的主要对象发生变化；
-
-（4）您参与个人信息处理方面的权利及其行使方式发生重大变化；
-
-（5）我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时；
-
-（6）个人信息安全影响评估报告表明存在高风险时
-
-7.3请您注意，只有在获取您的同意后，我们才会按照更新后的政策收集、使用、处理和储存您的个人信息。
-
-7.4我们还会将本政策的旧版本存档，您可通过本政策公示的联系方式与我们取得联系查阅旧版本隐私政策。
-
-8.如何联系我们
-
-如您对本隐私政策有任何疑问、意见或建议，请与我们联系 admin@fyta.ai
+If you have any questions, comments, or suggestions about this privacy policy, please contact us at admin@just3d.ai.

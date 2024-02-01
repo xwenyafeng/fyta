@@ -195,4 +195,4 @@ This agreement will terminate simultaneously when you cancel your fyta account o
 
 8.2 If any part of this agreement is rendered invalid or unenforceable for any reason, the remaining clauses will still be valid and binding on both parties.
 
-8.3 If you have any comments or suggestions regarding this agreement, you may provide feedback to the fyta platform (admin@fyta.ai), and we will offer you the necessary assistance.
+8.3 If you have any comments or suggestions regarding this agreement, you may provide feedback to the fyta platform (admin@just3d.ai), and we will offer you the necessary assistance.

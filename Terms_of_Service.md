@@ -1,3 +1,5 @@
+Date of Last Revision: 01-25-2024
+
 Welcome to fyta. Please read the following content carefully and fully understand it, especially the clauses that exempt or limit the liability of fyta company, the clauses that restrict users' rights, and the clauses regarding the application of law and jurisdiction.
 
 If you are under 18 years old, or in other situations where you do not have the civil capacity suitable for user actions, please read this agreement under the accompaniment and guidance of your legal guardian ("guardian"), and use the fyta platform after ensuring that your guardian agrees to the content of this agreement. You and your guardian shall bear the corresponding consequences of agreeing to this agreement and using fyta in accordance with the provisions of laws and regulations.
@@ -6,11 +8,11 @@ Unless you have fully read, completely understood, and accepted all terms of thi
 
 
 
-I. Definitions and Scope of the Agreement
+##1. Definitions and Scope of the Agreement
 
 1.1 Definitions
 
-fyta Company or We: Refers to the operator of the fyta platform and its affiliated companies.
+fyta Company or We: Refers to the operator of the fyta platform(Beijing Feitan Technology CO., Ltd.)
 
 fyta Platform Services: Refers to services provided by the fyta platform to you, including but not limited to content browsing, content posting, trading of goods and services, as well as other functions or services such as collecting, commenting, sharing, forwarding, searching, platform activities, etc. The specific services are subject to what is actually provided by fyta Company. Meanwhile, fyta Company reserves the right to add, discontinue, or otherwise adjust the provided functions or services.
 
@@ -34,7 +36,7 @@ Inappropriate Content: Refers to information containing content that:
 This agreement is between you and fyta Company regarding the downloading, installation, and use of the fyta platform, including the text of this agreement, the "fyta Privacy Policy", and various rules, standards, notices, etc., that have been published or may be published/updated by fyta Company in the future and notified in a reasonable manner. All rules are an integral part of this agreement and have the same legal effect.
 
 
-II. Account Management
+2. Account Management
 
 2.1 Account Acquisition
 
@@ -65,7 +67,7 @@ You understand and agree that to fully utilize account resources, if you fail to
 If you engage in any behavior that violates laws and regulations or does not comply with the terms of this agreement while registering or using a fyta account, fyta company has the right to refuse registration; for already registered accounts, fyta company has the right to require users to correct within a limited time, or unilaterally take measures such as short-term blocking, permanent banning, or account cancellation depending on the situation.
 
 
-III. fyta Platform Services
+3. fyta Platform Services
 
 3.1 Content Browsing
 
@@ -94,7 +96,7 @@ fyta company has incurred significant costs in providing fyta platform services 
 When fyta company reduces the fee standard for charged services or changes charged services to free services, fyta company reserves the right not to provide refunds or fee adjustments to the original paying users.
 
 
-IV. Rights and Permissions
+4. Rights and Permissions
 
 4.1 Platform Declaration
 
@@ -130,7 +132,7 @@ If you believe that the content on fyta platform infringes your legitimate right
 Unless otherwise proven, the data stored on fyta company's servers is the only valid evidence of users' use of the fyta platform.
 
 
-V. Legal Responsibility
+5. Legal Responsibility
 
 5.1 Breach Handling
 In the event that you breach the terms of this agreement, fyta company has the right to make an independent judgment and immediately suspend or terminate part or all of the fyta platform services provided to you. This includes measures such as muting, blocking information, deleting published content, banning accounts, and canceling accounts. You shall bear the losses incurred (including but not limited to the clearing of virtual property, inability to use the account and related fyta platform services normally, inability to access assets or other rights within your account, etc.) and corresponding legal responsibilities.
@@ -148,7 +150,7 @@ When fyta company terminates this agreement due to your breach, for the purpose 
 fyta company may publicize information about the aforementioned breach by you and other illegal information confirmed by effective legal documents from national administrative or judicial authorities on the fyta platform. For actions suspected of violating laws and regulations, we are obliged to save relevant records, report to relevant national authorities, and cooperate with investigations.
 
 
-VI. Limitation of Liability and Exemption Clauses
+6. Limitation of Liability and Exemption Clauses
 
 6.1 Third-Party Services
 When you use a specific service on the fyta platform, there may be separate agreements or rules for that service. Please read and agree to the relevant separate agreement or rules before using that service. If the service is provided by a third party, fyta company and the third party will each bear responsibility for any disputes that may arise, within the scope of legal regulations and agreed terms.
@@ -174,7 +176,7 @@ In any of the following situations, fyta company has the right to interrupt or t
 - For security reasons or other necessary circumstances.
 
 
-VII. Agreement Modification and Termination
+7. Agreement Modification and Termination
 
 7.1 Agreement Modification Notification
 fyta company reserves the right to modify the content of this agreement when necessary and will notify you in advance through reasonable means (including but not limited to fyta platform announcements, system messages, internal messages, SMS, email, etc.) and within a reasonable period. Such notifications are considered delivered to you on the date of sending. You can view the latest version of the agreement on the relevant pages of the platform.
@@ -187,11 +189,10 @@ This agreement will terminate simultaneously when you cancel your fyta account o
 
 
 
-IX. Miscellaneous
+8. Miscellaneous
 
 8.1 The titles of all clauses in this agreement are for convenience of reading and understanding only and have no actual significance. They cannot be used as a basis for interpreting the meanings of this agreement.
 
 8.2 If any part of this agreement is rendered invalid or unenforceable for any reason, the remaining clauses will still be valid and binding on both parties.
 
 8.3 If you have any comments or suggestions regarding this agreement, you may provide feedback to the fyta platform (admin@fyta.ai), and we will offer you the necessary assistance.
-![image](https://github.com/xwenyafeng/fyta/assets/90488570/6bea7a01-4d5c-42fe-830d-e9e61d35d53d)

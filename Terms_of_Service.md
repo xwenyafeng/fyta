@@ -8,7 +8,7 @@ Unless you have fully read, completely understood, and accepted all terms of thi
 
 
 
-##1. Definitions and Scope of the Agreement
+## 1. Definitions and Scope of the Agreement
 
 1.1 Definitions
 

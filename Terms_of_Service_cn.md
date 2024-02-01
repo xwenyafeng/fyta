@@ -1,42 +1,161 @@
-Terms of Service for Fyta
-1. Introduction
-Welcome to Fyta. By accessing or using the Fyta mobile application, website, or any other feature or service provided by Fyta ("Service"), you signify that you have read, understood, and agree to be bound by these Terms of Service ("Terms").
-2. Changes to Terms
-Fyta reserves the right, at its sole discretion, to modify or replace these Terms at any time. You will be notified of any significant changes. Continued use of the Service after such changes will constitute your consent to the changes.
-3. Registration and Account Security
-a. To use certain features of Fyta, you must register for an account. You agree to provide accurate and complete information and to keep this information up-to-date.
-b. You are responsible for maintaining the confidentiality of your account and password, as well as for all activities that occur under your account.
-c. Fyta reserves the right to terminate accounts that are inactive for an extended period of time.
-4. User-Generated Content
-a. Users may post content, including messages, texts, photos, videos, and other materials.
-b. You retain all rights in, and are solely responsible for, the User Content you post to Fyta.
-c. By posting content to Fyta, you grant us a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, sublicensable, and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform such content.
-5. Content Standards and Enforcement
-a. User Content must comply with all applicable laws, rules, and regulations, and must not:
-•	Infringe any intellectual property right of any party.
-•	Be defamatory, obscene, pornographic, vulgar, or offensive.
-•	Promote discrimination, bigotry, racism, hatred, harassment, or harm against any individual or group.
-•	Be violent or threatening or promote violence or actions that are threatening to any other person.
-•	Promote illegal or harmful activities or substances.
-b. Fyta reserves the right, but is not obligated, to monitor, review, or edit User Content. However, we may remove or disable access to any User Content for any reason, including content that we, in our sole discretion, consider to be a violation of these Terms.
-6. Third-Party Links and Content
-The Service may contain links to third-party websites or resources. Fyta provides these links only as a convenience and is not responsible for the content, products, or services on or available from those websites or resources.
-7. Privacy
-Your privacy is important to us. Our Privacy Policy explains how we collect, use, and share your information. By using the Service, you agree to the collection and use of information in accordance with our Privacy Policy.
-8. Intellectual Property Rights
-a. The Service and its original content (excluding User Content), features, and functionality are and will remain the exclusive property of Fyta and its licensors.
-b. The Fyta name, logo, and the product names associated with the Service are trademarks of Fyta, and may not be used without our prior written permission.
-9. Disclaimers
-a. Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. Fyta expressly disclaims all warranties, whether express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, accuracy, and non-infringement.
-b. Fyta does not warrant that the Service will function uninterrupted, secure, or available at any particular time or location.
-10. Limitation of Liability
-In no event will Fyta, its affiliates, agents, directors, employees, suppliers, or licensors be liable for any indirect, punitive, incidental, special, consequential, or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or relating to the use of, or inability to use, the Service.
-11. Indemnification
-You agree to defend, indemnify, and hold harmless Fyta and its licensee and licensors, and their employees, contractors, agents, officers, and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Service, by you or any person using your account and password; b) a breach of these Terms, or c) Content posted on the Service.
-12. Governing Law
-These Terms shall be governed and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions. Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights.
-13. Changes to the Service
-Fyta reserves the right to withdraw or amend the Service, and any service or material we provide via the Service, in our sole discretion without notice. We will not be liable if, for any reason, all or any part of the Service is unavailable at any time or for any period.
-14. Contact Information
-For any questions about these Terms, please contact us at [insert contact information].
 
+欢迎使用fyta。请您务必审慎阅读、充分理解以下内容，特别是免除或者限制fyta公司责任的条款、对用户权利进行限制的条款、约定法律适用与管辖的条款等。
+
+如您未满18周岁，或存在其他不具备与用户行为相适应的民事行为能力的情形，请您在法定监护人（“监护人”）的陪同、指导下阅读本协议，并在确保监护人同意本协议内容后使用fyta平台。您及您的监护人应依照法律法规规定，承担同意本协议及使用fyta而导致的相应后果。
+
+除非您已充分阅读、完全理解并接受本协议所有条款，否则您无权使用fyta。如您不同意本协议或其中任何条款，您应立即停止使用fyta。您点击“同意”，或者您使用fyta，或者以其他任何明示或者默示方式表示接受本协议的，均视为您已阅读并同意本协议。本协议即在您与fyta之间产生法律效力，成为对双方均具有约束力的法律文件。
+
+
+一、定义及协议范围
+
+1.1 定义
+
+fyta公司或我们：指fyta平台的运营方及其关联公司。
+
+fyta平台服务：指fyta平台为您提供内容浏览、内容发布、商品与服务交易、以及包括但不限于收藏、评论、分享、转发、搜索查询、平台活动等其他各项功能或服务，具体以fyta公司实际提供的为准。同时，fyta公司有权对提供的功能或服务进行增加、关停或其他调整。
+
+fyta账号：指用户在使用fyta平台服务时可能需要注册的账号。用户可在fyta平台注册并获得的账号，作为登录并使用fyta平台的凭证。
+
+用户：指fyta平台的使用人，在本协议中更多地称为“您”。
+
+不良信息：指含有下列内容的信息：
+违反法律确定的基本原则，煽动抗拒或者破坏法律法规实施的；
+危害国家安全，损害国家尊严、荣誉和利益，宣扬恐怖主义、极端主义的；
+诋毁民族优秀文化传统，煽动民族仇恨、民族歧视，侵害民族风俗习惯，歪曲民族历史和民族历史人物，伤害民族感情，破坏民族团结的；
+煽动破坏国家宗教政策，宣扬宗教狂热，危害宗教和睦，伤害信教公民宗教感情，破坏信教公民和不信教公民团结，宣扬邪教、迷信的；
+危害社会公德，扰乱社会秩序，破坏社会稳定，宣扬淫秽、赌博、吸毒，渲染暴力、恐怖，教唆犯罪或者传授犯罪方法的；
+侵害未成年人合法权益或者损害未成年人身心健康的；
+侮辱、诽谤他人或者散布他人隐私，侵害他人合法权益的；
+违反法律法规底线、国家利益底线、公民合法权益底线、社会公共秩序底线、道德风尚底线和信息真实性底线的要求的；
+法律法规禁止的其他内容。
+
+1.2 协议范围
+
+本协议是您与fyta公司之间关于您下载、安装、使用fyta平台所订立的协议，包括本协议正文、《fyta隐私政策》及fyta公司已经发布的或将来可能发布/更新的并采取合理途径通知的各类规则、规范、通知等。所有规则均为本协议不可分割的组成部分，且具有同等法律效力。
+
+
+二、账号管理
+
+2.1 账号获得
+
+fyta平台为您提供注册及登录通道，您可按照页面提示填写信息、阅读并同意本协议，在完成全部注册登录程序后，成为fyta平台用户。您还需要根据法律法规的规定（如有）填写您真实的身份信息，否则您可能无法使用fyta平台服务或在使用fyta平台服务过程中受到限制。您了解并同意，您有义务保持您提供信息的真实性、有效性及完整性。
+您注册获得的账号、设置的密码是您登录并以用户身份使用fyta平台的凭证，你应当谨慎使用、妥善保管。您须对账号进行的所有活动和行为负责。若因您保管不善导致的盗号、密码丢失、账号被非法使用等责任由您自行承担。
+您不得恶意注册fyta账号，包括但不限于频繁注册、批量注册、使用他人身份注册或其他不以正常使用fyta平台服务为目的的账号注册行为。
+2.2 账号信息设置
+
+您在注册或使用fyta平台时设置的名称、头像和简介等账号信息资料应遵守法律法规、社会道德风尚和信息真实性等原则，不得出现不良信息，不得冒用他人姓名、名称、字号、头像等或采取其他足以引起混淆的方式设置账号，不得侵害第三方的合法权益。
+2.3 账号使用及权属
+
+部分第三方网站或者服务可以用fyta账号作为其登录途径之一。您知晓，除非fyta公司特别说明外，这些网站或者服务并非fyta公司运营，您应自行判断此类第三方网站或者服务的安全性和可用性，并自行承担相关风险和责任。
+由于您的账号关联您的个人信息及fyta平台商业信息，您的账号仅限您本人使用。未经fyta公司同意，您直接或间接授权第三方使用您账号或获取您账号项下信息的行为无效。如fyta公司判断您账号的使用可能违反法律法规、危及您的账号安全及/或fyta平台信息安全的，fyta公司可拒绝提供相应服务或终止本协议。fyta公司有权视情况封禁或注销、回收该账号，由此带来的包括但不限于内容、虚拟财产清空等损失由您本人及该账号使用者自行承担。
+2.4 账号注销及回收
+
+您可以依照fyta平台的流程申请注销您的fyta账号，但您仍应对您在注销账号前或使用fyta平台服务期间的行为承担相应责任。注销成功后，除非法律法规另有规定，fyta公司不会为您提供账号记录、内容、虚拟财产等恢复或提供服务，请您谨慎操作。
+您理解并同意，为了充分使用账号资源，如您在注册后未及时进行初次登录使用或连续超过六个月未登录账号并使用，且不存在未到期或未履行完毕的持续性fyta平台服务的，fyta公司有权收回您的账号。如您的账号被收回，您无法通过您此前持有的账号登录并使用fyta平台，您账号下保存的个性化设置和使用记录也将无法恢复。
+2.5 账号违规处置
+
+若您在注册或使用fyta账号时，存在任何违反法律法规或不符合本协议约定的行为，fyta公司有权不予注册；已经注册的，fyta公司有权视情况要求用户限期改正、或单方采取短期封禁、永久封禁、注销账号等措施。
+
+
+三、fyta平台服务
+
+3.1 内容浏览
+
+您可通过fyta平台浏览各类信息和内容。您对fyta平台中的内容须自行加以判断，并承担因使用内容而引起的风险。除法律法规明确规定外，您因该等内容进行的购买或交易或因前述内容遭受的损害或损失由您自行承担。
+3.2 内容发布
+
+您可使用fyta平台发表属于您原创或您有权发表的观点看法、文字、信息、图片、音视频等内容。您在fyta平台发布的任何内容、信息均不代表fyta公司的观点、立场或政策，除法律法规明确规定外，您须独立承担所发布内容的责任。
+您通过fyta平台发布内容时必须遵守有关法律法规，不得利用fyta平台制作、复制、发布、传播、储存任何违反法律法规、危害国家安全、可能对用户财产安全或信息安全造成损失的信息、营销信息、低俗不当信息、不良信息以及不实信息等内容。
+您不得在fyta平台上利用基于深度学习、虚拟现实等新技术制作、发布、传播虚假内容信息。
+3.3 内容分享与转发
+
+您可对fyta平台的信息内容进行分享、转发，但未经fyta公司书面许可，您不得复制、读取、采用、统计fyta平台的信息内容及相关数据，或者进行任何形式的销售和商业使用，或者向第三方泄露、提供或允许第三方为任何方式的使用。
+3.4 活动参与
+
+您可通过fyta平台参与fyta公司不定期组织的各类线上、线下互动活动，但您不得采取任何不正当或作弊的违规手段参与活动，否则fyta公司有权限制或取消您参与活动的资格，并有权取消、追讨您已获得、领取的奖励，并追究您的法律责任。
+3.5 服务费用
+
+fyta公司为向您提供的fyta平台服务付出了大量的成本，除fyta平台明示的收费业务外，fyta公司向您提供的fyta平台服务是免费的。如未来fyta公司向您收取合理费用，fyta公司会采取合理方式并以合理的期限提前通知您，确保您有充分选择的权利。
+在fyta公司降低收费服务的收费标准或者将收费服务改为免费服务提供时，fyta公司保留不对原付费用户提供退费或者费用调整之权利。
+
+
+四、权利与许可
+
+4.1 平台声明
+
+【平台知识产权】fyta平台所提供的内容，包括但不限于视频、图文、文字表述及其组合、界面设计、版面框架、图标、商标等，除涉及第三方授权的软件、内容外，均归属fyta公司所有，受著作权法、商标法、专利法、反不正当竞争法及国际条约等法律法规的保护。未经fyta书面允许，用户不得为任何目的擅自使用、复制、再造这些内容、或创造与内容有关的派生产品。
+【平台使用规范】除非法律法规允许或fyta公司书面许可，您不得从事下列行为：
+对fyta平台进行反向工程、反向汇编、反向编译，或者以其他方式尝试发现fyta平台的源代码；
+以任何方式（包括但不限于盗链、冗余盗取、非法抓取、模拟下载、深度链接、假冒注册等）直接或间接盗取fyta平台的视频、图文、用户信息等信息内容；
+通过非fyta公司开发、授权、许可的第三方软件、插件、外挂、系统，登录或使用fyta平台，或对fyta平台的正常运行进行干扰、破坏、修改或施加其他影响；
+利用或针对fyta平台进行任何危害计算机网络安全的行为，包括但不限于：非法侵入网络、干扰网络正常功能、窃取网络数据等危害网络安全的活动，或为上述活动提供程序、工具等支持与帮助；企图干涉、破坏fyta平台系统或网站的正常运行，故意传播恶意程序或病毒以及其他破坏干扰正常网络信息服务的行为等；
+其他以任何不合法的方式、为任何不合法的目的、或与fyta公司为此制定的其他规范和标准不一致的方式使用fyta平台。
+4.2 用户内容及信息授权
+
+您在fyta平台发布、上传的内容（包括但不限于文字、图片、视频、音频等）应有合法来源，相关内容为您所有或您已获得必要的授权
+除非有相反证明，您理解并同意，为使用户内容得到更好的分享及推广，提高其传播价值及影响力，您授予fyta公司免费的、不可撤销的、非排他的、无地域限制的许可使用，包括：存储、使用、传播、复制、修订、改编、汇编、出版、展示、翻译、表演用户内容或制作派生作品，以已知或日后开发的形式、媒体或技术将内容纳入其它作品，再许可第三方按照前述方式使用的权利，以及以自身名义或委托专业第三方对侵犯您上传发布的享有知识产权的内容进行取证、发起投诉或提起诉讼的权利。
+为免歧义，上述许可包括使用、复制和展示用户内容中受保护的个人形象、肖像、姓名、商标、品牌、标识及其他营销推广素材、物料的权利和许可。
+fyta公司不会将您的个人信息转移或披露给任何第三方，除非：
+相关法律法规或司法机关、行政机关要求。
+为完成合并、分立、收购或资产转让而转移。
+为提供您要求的服务所必需。
+依据其他相关协议规则可以转移或披露给任何第三方的情形。
+4.3 侵权投诉
+
+fyta公司尊重并保护您及他人的知识产权、名誉权、姓名权、隐私权等合法权益。您保证，在fyta平台上传的文字、图片、视频、音频、链接等不侵犯任何第三方的知识产权、名誉权、姓名权、隐私权等合法权益。否则，fyta公司有权在收到权利方或者相关方通知的情况下移除该涉嫌侵权内容。
+您认为fyta平台上的内容侵犯您的合法权益，您可通过邮箱（admin@just3d.ai）向我们提供相关文件或信息（包括内容链接、身份材料、享有权利、及存在侵权行为的证明文件等）。fyta公司将在收到有效通知后判断决定是否对涉嫌侵权的内容进行处理。
+除非另有证明，fyta公司储存在其服务器上的数据是用户使用fyta平台的唯一有效证据。
+
+
+
+五、法律责任
+
+5.1 违约处理
+如您违反本协议约定，fyta公司有权作出独立判断，立即暂停或终止向您提供部分或全部fyta平台服务，包括禁言、屏蔽信息、删除发布内容、封禁账号、注销账号等措施。您应自行承担自身损失（包括但不限于虚拟财产清空、无法正常使用账号及相关fyta平台服务、无法正常获取您账号内资产或其他权益等），以及相应法律责任。
+5.2 责任承担
+您承担法律责任的形式包括但不限于：对受到侵害者赔偿损失、赔礼道歉、消除影响、返还财产等。如您的行为给fyta公司造成损失的，您应承担全部赔偿责任，包括行政处罚或损害赔偿款等直接损失以及商誉损失、和解款、律师费、诉讼费等间接损失。
+5.3 反商业贿赂
+您充分了解，任何向fyta公司的雇员或顾问等提供实物、现金、现金等价物、劳务、旅游等价值明显超出正常商务洽谈范畴的利益，均视为商业贿赂行为。发生前述情形的，fyta公司可立即终止与您的所有合作并追究您的法律责任。
+5.4 关联处理
+您因违约导致fyta公司终止本协议时，出于维护平台秩序的目的，fyta公司可根据与您在其他协议项下达成的约定终止与您在其他协议项下的合作。如您违反fyta与您在其他合作项下订立的协议，fyta公司亦有权终止本协议。除前述协议终止外，fyta公司亦可关联追究您的违约责任。
+5.5 信息公示
+fyta公司可将对您上述违约行为的处置信息，以及其他经国家行政或司法机关生效法律文书确认的违法信息，在fyta平台上予以公示。对涉嫌违反法律法规的行为，我们有义务保存有关记录，向国家有关机关报告并配合调查。
+
+
+
+六、责任限制与免责事由
+
+6.1 第三方服务
+您在使用fyta平台某一特定服务时，该服务可能会另有单独的协议或规则，您在使用该项服务前请阅读并同意相关的单独协议或规则。若该服务由第三方提供，则fyta公司和第三方对可能出现的纠纷在法律法规和约定的范围内各自承担责任。
+6.2 责任限制
+本协议中包含的所有免责和责任限制条款仅适用于法律法规允许的最大限度内。
+6.3 平台责任承担
+fyta公司仅按照相关法律法规的规定承担平台责任，我们不对第三方的诽谤、犯罪或其他非法行为承担责任，也不赔偿因此造成的您的损失，但因我们对您遭受的损失负有法定过错的除外。
+6.4 服务变更、中断、终止
+
+fyta公司始终在不断变更和改进fyta平台服务，我们会尽最大努力向您提供服务，确保服务的连贯性和安全性。基于此，我们可能会对fyta平台进行更新，您应将软件更新到最新版本，否则我们不保证您可正常使用fyta平台。
+您理解并同意，fyta公司根据自身商业决策、政府行为、不可抗力等原因可能会选择中止、中断及终止fyta平台的部分或全部服务。如有此等情形发生，我们会采取合理的方式并以合理的期限提前通知您，除法律法规另有规定外，我们不承担由此对您造成的损失。
+在fyta公司发生合并、分立、收购、资产转让时，fyta公司可在单方通知您后，将本协议下部分或全部fyta平台服务及相应的权利义务转交由第三方运营或履行。具体受让主体以fyta公司通知为准。
+如发生下列任何一种情形，fyta公司有权不经通知而中断或终止向您提供服务：
+根据法律法规规定您应提交真实信息，而您提供的个人资料不真实、或与注册时信息不一致又未能提供合理证明。
+您违反相关法律法规的规定或违反本协议的约定。
+按照法律法规规定，或司法机关或主管部门的要求。
+出于安全的原因或其他必要的情形。
+
+
+七、协议变更与终止
+
+7.1 协议变更通知
+fyta公司有权在必要时修改本协议内容，并将通过合理的方式（包括但不限于fyta平台公告、系统消息、站内信、手机短信、电子邮件等）及合理的期限提前通知您，该等通知于发送之日视为已送达您。您可以通过平台相关页面查阅最新版本的协议内容。
+7.2 变更协议生效
+本协议变更生效后，如您继续使用fyta平台，即视为您已接受修改后的协议。如您不接受修改后的协议，应当停止使用fyta平台。
+7.3 协议终止
+您注销您的fyta账号或fyta公司通知您终止为您提供fyta平台服务（包括但不限于封禁账号、注销账号等）时，本协议将同时终止，fyta公司将不再另行通知您终止本协议。
+
+
+八、其他
+
+8.1 本协议所有条款的标题仅为阅读和理解方便，本身并无实际涵义，不能作为本协议涵义解释的依据。
+8.2 本协议条款无论因何种原因部分无效或不可执行，其余条款仍有效，对双方具有约束力。
+8.3 如您对本协议有任何意见或建议，您可向fyta平台（admin@fyta.ai）反馈，我们会给予您必要的帮助。
+![image](https://github.com/xwenyafeng/fyta/assets/90488570/b26c8ed5-68bd-4aa8-83e7-5ca87db43445)

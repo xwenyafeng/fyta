@@ -81,6 +81,8 @@ When publishing content through the fyta platform, you must comply with relevant
 
 You must not use new technologies such as deep learning and virtual reality to create, publish, or disseminate false content on the fyta platform.
 
+There is no tolerance for objectionable content and abusive users.
+
 3.3 Content Sharing and Forwarding
 
 You can share and forward information content on the fyta platform, but without the written permission of fyta company, you must not copy, read, adopt, count the information content and related data of the fyta platform, or engage in any form of sales and commercial use, or disclose, provide or allow third parties to use it in any way.
